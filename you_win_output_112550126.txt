@@ -1,0 +1,268 @@
+Please enter your name
+Richard
+What type do you want to have? Fire, water, or grass?
+water
+Welcome to Dungeon, Richard!!!
+Richard's current health is: 2000, attack is: 500, defense is: 500
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [r] to go right
+Press [u] to go up
+r
+The environment of this room is Desert
+state decreases: hunger - 3
+state decreases: thurst - 6
+You find an oasis
+state increases: hunger + 6
+state increases: thurst + 12
+請按任意鍵繼續 . . .
+Dr. Mark Russell: Monster can't live with people, we need to kill them all. Let me help you!!!
+Waht do you want? You can only choose one thing.(Type [nothing] to get nothing.)
+----------------------------------------------------------------------------------
+shotgun: health: 0, attack: 55, defense: 0,hunger: 0,thurst: 0,poison 0
+protein: health: 100, attack: 0, defense: 0,hunger: 0,thurst: 0,poison 0
+pizza: health: 0, attack: 0, defense: 0,hunger: 10,thurst: 0,poison 0
+----------------------------------------------------------------------------------
+shotgun
+You've picked up shotgun
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+l
+Items in your bag: shotgun/
+state decreases: hunger - 3
+state decreases: thurst - 6
+You find an oasis
+state increases: hunger + 6
+state increases: thurst + 12
+請按任意鍵繼續 . . .
+You are injured accidently
+Status decreases: current health - 100
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+
+m
+What's your next move?
+Press [r] to go right
+Press [l] tp go left
+Press [u] to go up
+Press [d] to go down.
+r
+The environment of this room is Forest
+state decreases: hunger - 6
+state decreases: thurst - 3
+請按任意鍵繼續 . . .
+You've encountered a monster, Mothra.
+Mothra's type is: fire, current health is: 800, attack is: 400, defense is: 400
+Richard's current health is: 1900, attack is: 555, defense is: 500
+what do you want to do? Attack or retreat?
+attack
+Fight!!!
+You counter the monster.
+You attacked monster, causing 369damages
+Mothra's type is: fire, current health is: 431, attack is: 400, defense is: 400
+You was attacked by monster, causing 102 damages
+Richard's current health is: 1798, attack is: 555, defense is: 500
+You counter the monster.
+You attacked monster, causing 739damages
+Mothra's type is: fire, current health is: 0, attack is: 400, defense is: 400
+You killed Mothra. You got recovery.
+Richard's current health is: 1887, attack is: 582, defense is: 525
+請按任意鍵繼續 . . .
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [r] to go right
+Press [l] tp go left
+r
+The environment of this room is Desert
+You encoutered sand storm, thurst and hunger decrease dramatically
+state decreases: hunger - 6
+state decreases: thurst - 12
+請按任意鍵繼續 . . .
+Madison: You look so tired, how can I help you?
+Waht do you want? You can only choose one thing.(Type [nothing] to get nothing.)
+----------------------------------------------------------------------------------
+rifle: health: 0, attack: 65, defense: 0,hunger: 0,thurst: 0,poison 0
+creatine: health: 150, attack: 0, defense: 0,hunger: 0,thurst: 0,poison 0
+iceCream: health: 0, attack: 0, defense: 0,hunger: 0,thurst: 0,poison -4
+----------------------------------------------------------------------------------
+rifle
+You've picked up rifle
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+l
+Items in your bag: shotgun/rifle/
+You encoutered sand storm, thurst and hunger decrease dramatically
+state decreases: hunger - 6
+state decreases: thurst - 12
+You find an oasis
+state increases: hunger + 6
+state increases: thurst + 12
+請按任意鍵繼續 . . .
+You are injured accidently
+Status decreases: current health - 100
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [r] to go right
+Press [l] tp go left
+Press [u] to go up
+Press [d] to go down.
+r
+The environment of this room is Forest
+state decreases: hunger - 6
+state decreases: thurst - 3
+請按任意鍵繼續 . . .
+You've encountered a monster, Beheoth.
+Beheoth's type is: grass, current health is: 700, attack is: 350, defense is: 350
+Richard's current health is: 1787, attack is: 647, defense is: 525
+what do you want to do? Attack or retreat?
+attack
+Fight!!!
+You are countered.
+You attacked monster, causing 382damages
+Beheoth's type is: grass, current health is: 318, attack is: 350, defense is: 350
+You was attacked by monster, causing 55 damages
+Richard's current health is: 1732, attack is: 647, defense is: 525
+You are countered.
+You attacked monster, causing 382damages
+Beheoth's type is: grass, current health is: 0, attack is: 350, defense is: 350
+You killed Beheoth. You got recovery.
+Richard's current health is: 1818, attack is: 679, defense is: 551
+請按任意鍵繼續 . . .
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [r] to go right
+Press [l] tp go left
+r
+The environment of this room is Desert
+state decreases: hunger - 3
+state decreases: thurst - 6
+請按任意鍵繼續 . . .
+You've encountered a monster, MUTO.
+MUTO's type is: grass, current health is: 600, attack is: 300, defense is: 300
+Richard's current health is: 1818, attack is: 679, defense is: 551
+what do you want to do? Attack or retreat?
+attack
+Fight!!!
+You are countered.
+You attacked monster, causing 983damages
+MUTO's type is: grass, current health is: 0, attack is: 300, defense is: 300
+You killed MUTO. You got recovery.
+Richard's current health is: 1908, attack is: 712, defense is: 578
+請按任意鍵繼續 . . .
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [l] tp go left
+Press [d] to go down.
+d
+The environment of this room is Forest
+You encoutered wild fire, thurst and hunger decrease dramatically
+state decreases: hunger - 12
+state decreases: thurst - 6
+請按任意鍵繼續 . . .
+You are injured accidently
+Status decreases: current health - 100
+Dr. Ichiro Serizawa: You almost arrive the exit. Let me give you a helping hand
+Waht do you want? You can only choose one thing.(Type [nothing] to get nothing.)
+----------------------------------------------------------------------------------
+sheild: health: 0, attack: 0, defense: 50,hunger: 0,thurst: 0,poison 0
+fat: health: 200, attack: 0, defense: 0,hunger: 0,thurst: 0,poison 0
+donut: health: 0, attack: 0, defense: 0,hunger: 20,thurst: 0,poison 0
+----------------------------------------------------------------------------------
+donut
+You've picked up donut
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [r] to go right
+Press [l] tp go left
+Press [u] to go up
+r
+The environment of this room is Swamp
+You are poisoned by sake venom
+state increases: poison + 1
+state decreases: hunger - 6
+state decreases: thurst - 6
+You find a bottle of milk
+state decreases: poison - 2
+請按任意鍵繼續 . . .
+You've encountered a monster, Ghidorah.
+Ghidorah's type is: fire, current health is: 1200, attack is: 600, defense is: 600
+Richard's current health is: 1808, attack is: 712, defense is: 578
+what do you want to do? Attack or retreat?
+attack
+Fight!!!
+You counter the monster.
+You attacked monster, causing 810damages
+Ghidorah's type is: fire, current health is: 390, attack is: 600, defense is: 600
+You was attacked by monster, causing 398 damages
+Richard's current health is: 1410, attack is: 712, defense is: 578
+You counter the monster.
+You attacked monster, causing 810damages
+Ghidorah's type is: fire, current health is: 0, attack is: 600, defense is: 600
+You killed Ghidorah. You got recovery.
+Richard's current health is: 1480, attack is: 747, defense is: 606
+請按任意鍵繼續 . . .
+What's you're next action?
+Press [m] to move
+Press [s] to show status.
+Press [q] to quit.
+Press [h] to show hunger.
+Press [l] to list inventory.
+m
+What's your next move?
+Press [e] to exit.
+Press [l] tp go left
+Press [u] to go up
+e
+congratulations, you are the winner!!!
+
+C:\Users\88696\source\repos\dungeon\x64\Debug\dungeon.exe (處理序 13628) 已結束，出現代碼 0。
+若要在偵錯停止時自動關閉主控台，請啟用 [工具] -> [選項] -> [偵錯] -> [偵錯停止時，自動關閉主控台]。
+按任意鍵關閉此視窗…
